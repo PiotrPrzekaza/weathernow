@@ -3,7 +3,7 @@ import "./App.css";
 import Form from "./Form";
 import Result from "./Result";
 import Header from "./Header";
-const APIKey = 'e8262e8198c432a6b5e7ee3aa1d8bec8';
+const APIKey = '4201fc20171e17919fb86c6c78ee8ced';
 class App extends Component {
   state = {
     value: "",
@@ -31,7 +31,7 @@ class App extends Component {
     if (prevState.value !== this.state.value) {
 
 
-      const API = `http://api.openweathermap.org/data/2.5/weather?q=${this.state.value}&APPID=${APIKey}&units=metric`;
+      const API = `https://api.openweathermap.org/data/2.5/weather?q=${this.state.value}&APPID=${APIKey}&units=metric`;
       fetch(API)
         .then(response => {
           if (response.ok) {
