@@ -1,0 +1,15 @@
+div.head {
+    display: flex;
+    flex-direction: column;
+    background-color: lightcyan;
+    font-family: ubuntu, sans-serif;
+}
+
+.head h1 {
+    text-align: center;
+}
+
+.head p {
+    padding-left: 20px;
+    font-size: 30px;
+}
