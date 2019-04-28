@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/weathernow/static/js/runtime~main.fd096881.js"
   },
   {
-    "revision": "a98fb4267b6d750a2abe",
-    "url": "/weathernow/static/js/main.2919341a.chunk.js"
+    "revision": "7afd602e994de916f878",
+    "url": "/weathernow/static/js/main.415119b4.chunk.js"
   },
   {
     "revision": "681b51057d74cfa8975d",
     "url": "/weathernow/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "a98fb4267b6d750a2abe",
+    "revision": "7afd602e994de916f878",
     "url": "/weathernow/static/css/main.43d4edad.chunk.css"
   },
   {
-    "revision": "ec8292a4f694cb83471f72c4415eb465",
+    "revision": "56172612e86443ce3b4110bd5d78404b",
     "url": "/weathernow/index.html"
   }
 ];
